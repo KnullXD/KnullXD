@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Knull</h1>
-<h3 align="center">Turkey, I'm in C++, HTML, PHP I'm dealing with.</h3>
+<h3 align="center">I'm in C++, HTML, PHP I'm dealing with.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KnullXD&label=Profile%20Views&color=d400ff&style=flat" alt="KnullXD" /> </p>
 
