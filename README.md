@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Knull</h1>
-<h3 align="center">I'm in C++, HTML, PHP I'm dealing with.</h3>
+<h3 align="center">I'm try to survival.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KnullXD&label=Profile%20Views&color=d400ff&style=flat" alt="KnullXD" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KnullXD" alt="KnullXD" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/WUHMSRTxP8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Knull#5207" height="30" width="40" /></a>
+<p align="left"> knull1xd
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="knull1xd" height="30" width="40"</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
